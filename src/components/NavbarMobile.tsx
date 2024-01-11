@@ -22,7 +22,7 @@ export const NavbarMobile = ({ links }: Props) => {
 
       {viewNav ? (
         <header className="flex justify-center items-center">
-          <nav className="lg:hidden  fixed top-20 right-28 md:right-36 w-[250px] border border-white rounded-xl flex flex-col justify-around items-center  z-10 bg-[#171717]">
+          <nav className="lg:hidden  fixed top-20 right-16  sm:right-28  md:right-40 w-[250px] border border-white rounded-xl flex flex-col justify-around items-center  z-10 bg-[#171717]">
             {links.map(({ path, name }) => (
               <Link
                 key={path}

@@ -2,7 +2,10 @@ import { Button } from "@nextui-org/react";
 
 export const Contact = () => {
   return (
-    <section className="mt-24 w-full lg:w-[800px] px-10 lg:px-0" id="contact">
+    <section
+      className="mt-24 w-full lg:w-[800px] px-4 md:px-8  lg:px-0"
+      id="contact"
+    >
       <form className="flex flex-col gap-8 my-10 border border-neutral-500 px-9 py-9 rounded-md">
         <h2 className="text-2xl font-bold ">Contacto</h2>
         <div className="flex justify-between gap-8 flex-col lg:flex-row">

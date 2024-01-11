@@ -47,7 +47,7 @@ export const About = () => {
           </span>{" "}
           con fascinación por la{" "}
           <span className="text-[#05FFE1] font-medium">
-            Resolución de problemas
+            resolución de problemas
           </span>
           . Esto me llevo a comenzar en un{" "}
           <span className="text-[#05FFE1] font-medium">bootcamp</span> de

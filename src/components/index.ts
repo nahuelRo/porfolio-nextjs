@@ -1,6 +1,5 @@
 export * from "./Navbar";
 export * from "./NavbarMobile";
-export * from "./Modal";
 export * from "./Footer";
 export * from "./Home";
 export * from "./About";
@@ -8,3 +7,4 @@ export * from "./Experience";
 export * from "./Skills";
 export * from "./Contact";
 export * from "./Projects";
+export * from "./CustomModal";

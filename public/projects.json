@@ -1,0 +1,65 @@
+[
+  {
+    "title": "First Plug Argentina",
+    "content": "Desarrollo de plataforma web donde el foco principal es la gestión, adquisición y control de inventario, simplificando el onboarding y equipamiento para trabajadores remotos.",
+    "image": "/first.webp",
+    "technologies": [
+      "Typescript",
+      "NextJs",
+      "Tailwind",
+      "Express",
+      "MongoDB",
+      "MST (Mobx State Tree)",
+      "Mongoose"
+    ],
+    "apiUrl": null,
+    "clientUrl": null,
+    "web": "https://www.firstplug.co/"
+  },
+  {
+    "title": "Hospital Privado Sadiv",
+    "content": "He contribuido al desarrollo y mantenimiento de la intranet de un hospital privado, diseñada para optimizar la experiencia de los internos de la clínica. Asimismo, he participado activamente en la gestión y actualización de la página web institucional, centrada en proporcionar información crucial y servicios relevantes para pacientes y visitantes, consolidando así la presencia digital del hospital.",
+    "image": "/hpsadiv_logo.jpeg",
+    "technologies": [
+      "NextJs",
+      "Tailwind",
+      "Typescript",
+      "Laravel",
+      "MySQL"
+    ],
+    "apiUrl": null,
+    "clientUrl": null,
+    "web": "https://www.hpsadiv.com/"
+  },
+  {
+    "title": "Consultora Seguridad e Higiene",
+    "content": "Landing page para una destacada consultora especializada en Seguridad e Higiene, con el objetivo de aumentar su base de clientes y promover la visibilidad de sus servicios.",
+    "image": "/seguridadehigiene.png",
+    "technologies": [
+      "Astro",
+      "Tailwind"
+    ],
+    "apiUrl": null,
+    "clientUrl": null,
+    "web": "https://consultoraseguridadehigiene.com.ar/"
+  },
+  {
+    "title": "Rincón Matero e-commerce",
+    "content": "E-commerce de venta de productos para el mate. Posee registro de usuarios y login, perfil de usuario, carrito de compras, checkout, pagos con Mercado Pago, panel de administrador.",
+    "image": "/rincon.webp",
+    "technologies": [
+      "Vite",
+      "React",
+      "Redux",
+      "Sass",
+      "Node",
+      "Express",
+      "PostgreSQL",
+      "Sequelize",
+      "JWT"
+    ],
+    "apiUrl": "https://github.com/nahuelRo/rincon-matero-back",
+    "clientUrl": "https://github.com/nahuelRo/rincon-matero-front",
+    "web": null
+  }
+]
